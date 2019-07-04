@@ -1,0 +1,33 @@
+span{
+  font-weight: bold;
+
+}
+.Trading{
+  border: 1px solid #DCDCDC;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+  width:350px;
+  margin: auto;
+border-radius: 10px;
+
+}
+
+#body{
+margin-left: 500px
+}
+
+ h3{
+   margin-left: 150px;
+ }
+ img{
+display: block;
+margin:auto;
+border-radius: 5px;
+ }
+ p{
+   margin-left: 5px;
+ }
+.fitch{
+  border-radius: 5px;
+  width: 300px;
+  border: 1px solid rgba(0, 0, 0,0.3);
+margin: 10px auto  }
